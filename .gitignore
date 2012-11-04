@@ -5,3 +5,6 @@ app/tmp/*
 app/config/database.php
 !empty
 /nbproject/private/
+#/app/Config
+/lib/Cake/Console/Templates/skel/tmp/
+
